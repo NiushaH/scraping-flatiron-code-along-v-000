@@ -53,6 +53,6 @@ class Scraper
   
 end
 
-Scraper.new.get_page
+# Scraper.new.get_page
 
-Scraper.new.print_courses
+# Scraper.new.print_courses
